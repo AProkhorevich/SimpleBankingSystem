@@ -154,3 +154,4 @@ while menu_point != 0:
 
     if menu_point == 0:
         print('Bye!')
+        cur.close()
